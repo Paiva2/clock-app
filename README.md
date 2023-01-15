@@ -5,6 +5,8 @@ You can see it live on your desktop or smartphone: https://clock-app1.netlify.ap
 # Utilized technologies
 
 HTML;
+
 CSS;
+
 JavaScript.
 
